@@ -31,7 +31,6 @@ params = {
 # retrieve the search results as JSON
 result = serpwow.get_json(params)
 
-# pretty-print the result
 
 
 
