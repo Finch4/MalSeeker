@@ -9,3 +9,6 @@ The second version is developed with Selenium, the downsides are: slower and you
 ## Network Connection Map
 This feature is avaible seen the monthly cost at the moment only for the second version, at the end of the scraping you need to go to: 127.0.0.1:8050 to view the map, here an example:
 ![](https://github.com/Finch4/MalSeeker/blob/main/MalSeekerNetworkMapConnection.PNG?raw=true)
+
+##
+If you want to modify/improve the program you are free to do it.
