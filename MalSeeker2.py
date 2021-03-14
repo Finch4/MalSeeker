@@ -23,7 +23,7 @@ def find(string):
 driver = webdriver.Chrome("chromedriver.exe")
 
 elements = [
-            #{'data': {'id': 'ca', 'label': 'Canada'}},
+            #{'data': {'id': 'ca', 'label': 'Canada'}}, -> Format
             #{'data': {'source': 'ca', 'target': 'on'}},
         ]
 
@@ -161,14 +161,6 @@ for url,murl,wurls,wmurls in combination_list:
 
     i += 1
 
-
-
-
-#for wyu in wrap_youtube_urls:
-#        elements.append({'data': {'id': f'{wyu}', 'label': f'{wyu}'}})
-#        for wmu in warp_more_urls:
-#            elements.append({'data': {'id': f'{wmu}', 'label': f'{wmu}'}})
-#            elements.append({'data': {'source': f'{wyu}', 'target': f'{wmu}'}})
 
 
 
