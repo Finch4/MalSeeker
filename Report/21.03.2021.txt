@@ -1,0 +1,164 @@
+# There may be benign urls
+# You can search the "m_urls" for more urls, example: **EXAMPLE**: If you search; "3v2hkZ3" you will find "hxxps://didaucungduoc.com/index.php/post/among+us+mod+menu+apk+always+impostor+2020" and more.
+
+{
+    'first_url': 'hxxps://www.youtube.com/watch?v=_7nfLZ_qWgI',
+    'f_layer_urls': [
+        ['hxxps://bit.ly/3v2hkZ3']
+    ],
+    's_layer_urls': [
+        ['hxxps://www.youtube.com/watch?v=spOJCAU2A5E', 'hxxps://www.youtube.com/watch?v=Bb3gq56nM2o', 'hxxps://study-education.com/among-us-hack-apk-free-download-2021/']
+    ],
+    'm_urls': [
+        [
+            ['hxxps://bit.ly/3v2hkZ3'], **EXAMPLE**
+            ['hxxps://bit.ly/3v2hkZ3'],
+            []
+        ]
+    ]
+} {
+    'first_url': 'hxxps://www.youtube.com/watch?v=wBO4Feid18Q',
+    'f_layer_urls': [
+        ['hxxps://bit.ly/3tEJFTBMining', 'hxxps://bit.ly/3lB5KzuMy', 'hxxps://t.me/everthin']
+    ],
+    's_layer_urls': [
+        ['hxxps://www.youtube.com/watch?v=wBO4Feid18Q', 'hxxps://www.youtube.com/watch?v=3RgT4lj-xWE', 'hxxps://www.youtube.com/watch?v=sQh9AxP87Bg', 'hxxps://www.youtube.com/watch?v=3RgT4lj-xWE']
+    ],
+    'm_urls': [
+        [
+            ['hxxps://bit.ly/3tEJFTBMining', 'hxxps://bit.ly/3lB5KzuMy', 'hxxps://t.me/everthin'],
+            ['hxxps://bit.ly/3tEJFTBMining', 'hxxps://bit.ly/3lB5KzuMy', 'hxxps://t.me/everthin']
+        ]
+    ]
+} {
+    'first_url': 'hxxps://www.youtube.com/watch?v=sQh9AxP87Bg',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxps://oralidadmaya.info/real-free-paypal-money/',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxps://temptuanater.tistory.com/17',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxp://cc.vinirossetti.it/free-paypal-money-no-surveys.html',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxp://efdi.comitatodsa.it/free-paypal-account-with-money-2020.html',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxps://majors.watchesreplica.info/257.html',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxps://blankhack.com/globalproxy-tool-elite-proxy-scrapper/',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxp://cfiparma.it/free-account-paypal.html',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxps://crackinns.com/b/c/a/Skrill+money/',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+} {
+    'first_url': 'hxxp://gf-design.it/free-robux-generators.html',
+    'f_layer_urls': [],
+    's_layer_urls': [],
+    'm_urls': []
+}
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -{
+    {
+        'first_url': 'hxxps://www.youtube.com/watch?v=2nqmDQaB62w',
+        'f_layer_urls': [
+            ['hxxps://www.sendspace.com/file/oknhg8Download', 'hxxps://mega.nz/file/thQnSC7C#Gstroe2uFlF7zQr8VhJV8WwErm-k_xYvhJ5VHqEJxSk']
+        ],
+        's_layer_urls': [],
+        'm_urls': []
+    } {
+        'first_url': 'hxxps://www.youtube.com/watch?v=vDwTn-JA_Ms',
+        'f_layer_urls': [
+            ['hxxps://bit.ly/3anFN2v']
+        ],
+        's_layer_urls': [
+            ['hxxps://www.youtube.com/watch?v=091c_3E52EI', 'hxxps://www.youtube.com/watch?v=VLg_G3aXTrE', 'hxxps://flyforward.eu/privacy-international-mpgk/d30469-minecraft-hack-clients']
+        ],
+        'm_urls': [
+            [
+                ['hxxps://bit.ly/3anFN2v'],
+                ['hxxps://bit.ly/3anFN2v'],
+                []
+            ]
+        ]
+    } {
+        'first_url': 'hxxps://www.youtube.com/watch?v=Ja43rBl2US0',
+        'f_layer_urls': [
+            ['hxxps://bit.ly/30UKb3t']
+        ],
+        's_layer_urls': [
+            ['hxxps://www.youtube.com/watch?v=fg9zc331oG0', 'hxxps://www.youtube.com/watch?v=gLzSfVndylM', 'hxxps://study-education.com/free-minecraft-hack-client-download/']
+        ],
+        'm_urls': [
+            [
+                ['hxxps://bit.ly/30UKb3t'],
+                ['hxxps://bit.ly/30UKb3t'],
+                []
+            ]
+        ]
+    } {
+        'first_url': 'hxxps://www.youtube.com/watch?v=H52vX8LLkXY',
+        'f_layer_urls': [
+            ['hxxps://www.sendspace.com/file/5napqfDownload', 'hxxps://mega.nz/file/QUIi2DbY#OblYGIRjUJK48OMFIAuQtD_hU62rLmiDLCoeGZStzPYPassword']
+        ],
+        's_layer_urls': [
+            ['hxxps://forum.hkgolden.com/thread/5759880/page/7']
+        ],
+        'm_urls': [
+            [
+                []
+            ]
+        ]
+    } {
+        'first_url': 'hxxps://www.youtube.com/watch?v=BhqIRqVfyX0',
+        'f_layer_urls': [
+            ['hxxps://bit.ly/30UKb3tPASSWORD']
+        ],
+        's_layer_urls': [
+            ['hxxps://www.youtube.com/watch?v=pYSo8U802GY', 'hxxps://www.youtube.com/watch?v=zT21dczhJEo']
+        ],
+        'm_urls': [
+            [
+                ['hxxps://bit.ly/30UKb3tPASSWORD'],
+                ['hxxps://bit.ly/30UKb3tPASSWORD']
+            ]
+        ]
+    } {
+        'first_url': 'hxxp://cs.rimbalzandoperilmondo.it/free-btc-hack-2019.html',
+        'f_layer_urls': [],
+        's_layer_urls': [],
+        'm_urls': []
+    } {
+        'first_url': 'hxxps://turtc.com/tr/index.php?page=search/images&search=roblox+free+admin+hack+download&type=images',
+        'f_layer_urls': [],
+        's_layer_urls': [],
+        'm_urls': []
+    } {
+        'first_url': 'hxxps://icemodz.de/',
+        'f_layer_urls': [],
+        's_layer_urls': [],
+        'm_urls': []
+    }
